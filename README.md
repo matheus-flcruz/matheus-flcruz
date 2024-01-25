@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Matheus Cruz 😁
+## Bem-vindo(a) ao perfil do Matheus Cruz
 
  <div>
    <a href="https://github.com/matheus-flcruz">
